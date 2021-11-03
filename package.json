@@ -1,5 +1,5 @@
 {
-  "name": "awesome-qr",
+  "name": "@satont/awesome-qr",
   "version": "2.1.5-rc.0",
   "description": "An awesome but simple QR code generator written in JavaScript.",
   "main": "./lib/index.js",
